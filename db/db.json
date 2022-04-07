@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "email": "user@todo.com",
+            "password": ""
+        }
+    ],
+    "tasks": [
+        {}
+    ]
+}
